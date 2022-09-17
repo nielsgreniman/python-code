@@ -1,0 +1,13 @@
+ImmutableMultiDict([('phrase', 'joni'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'o', 'i'}
+ImmutableMultiDict([('phrase', 'ob'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'o'}
+ImmutableMultiDict([('phrase', 'bob'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'o'}
+ImmutableMultiDict([('phrase', 'frankie'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'a', 'e', 'i'}
+ImmutableMultiDict([('phrase', 'lucy'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'u'}
+ImmutableMultiDict([('phrase', 'tyuio'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'o', 'i', 'u'}
+ImmutableMultiDict([('phrase', 'Louise'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36|{'e', 'i', 'o', 'u'}
+ImmutableMultiDict([('phrase', 'Louise'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36|{'i', 'e', 'u', 'o'}
+ImmutableMultiDict([('phrase', 'Kristian Lund'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'i', 'a', 'u'}
+ImmutableMultiDict([('phrase', 'Kristian Lund Pedersen'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'i', 'a', 'u', 'e'}
+ImmutableMultiDict([('phrase', 'Kristian Falk Lund Vindberg Pedersen'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'i', 'a', 'u', 'e'}
+ImmutableMultiDict([('phrase', 'Talk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'a'}
+ImmutableMultiDict([('phrase', 'hello'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0|{'e', 'o'}
